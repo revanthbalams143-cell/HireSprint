@@ -1,0 +1,9 @@
+{
+  "name": "hiresprint",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "install": "npm --prefix frontend install",
+    "start": "npm --prefix frontend run start"
+  }
+}
