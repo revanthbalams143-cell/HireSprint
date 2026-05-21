@@ -1,4 +1,4 @@
-# Interview Platform Starter
+# HireSprint
 
 ## Frontend
 
