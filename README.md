@@ -20,3 +20,4 @@
 
 - The backend exposes `/signup`, `/login`, and `/generate`.
 - The frontend includes a landing page, login page, and dashboard page.
+\n\n*PR: create compare pull request*
